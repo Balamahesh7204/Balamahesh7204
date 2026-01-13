@@ -1,4 +1,4 @@
-### 👋 About Me 
+## 👋 About Me 
 I’m Bala Mahesh, a passionate and results-oriented Data Analyst fresher actively seeking new opportunities. I combine strong technical skills with business understanding to help organizations transform raw data into actionable insights that drive better decisions and measurable business outcomes.
 
 I specialize in solving business problems through Data Visualization, Business Intelligence, and Data Analysis, using tools such as Power BI, SQL, Excel, Python, and Tableau. From building intuitive dashboards and modeling complex datasets to automating reporting workflows, my focus is always on clarity, accuracy, and value creation through data.
