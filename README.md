@@ -7,13 +7,13 @@ Let’s Connect 🤝
 
 If you’re looking for a Data Analyst who is passionate about turning data into insights and driving real business impact, I’d be happy to connect.
 
-📧 Email: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip
+📧 Email: balamahesh610@gmail.com
 
 📱 Mobile: +91 7989105656
 
-🔗 LinkedIn: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip
+🔗 LinkedIn:  www.linkedin.com/in/mbalamahesh
 
-💻 GitHub: https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip
+💻 GitHub:  https://github.com/Balamahesh7204
 
 🧠 Core Skills
 - Power BI
@@ -59,13 +59,12 @@ Data Analytics Job Simulation | Deloitte
 Summer Of AI Internship Program | Swecha 
 - Participated in building AI for preserving culture and language advancement.
 
-🎓 Education
+🎓 Education in Computer Science Engineering | Specialization in AI and Data Science
 
-https://github.com/Balamahesh7204/Balamahesh7204/raw/refs/heads/main/Ortalis/Balamahesh-3.7.zip in Computer Science Engineering | Specialization in AI and Data Science
 
 CMR College of Engineering & Technology, Medchal
 
-CGPA: 6.8 / 10.0
+CGPA: 6.68 / 10.0
 
 📚 Current Interests & Learning Goals
 
