@@ -77,7 +77,6 @@ CGPA: 6.68 / 10.0
 📉 Predictive Modeling & Machine Learning 
 
 💡 Personal Note
-
 Driven by curiosity and a love for problem-solving, I view data as a puzzle waiting to be solved. My goal is to leverage AI and analytics not just to report on the past, but to predict future trends and drive growth. Always excited to discuss the evolving landscape of data science.
 
 
